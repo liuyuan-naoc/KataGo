@@ -1,6 +1,6 @@
 # KataGo
 
-- [KataGo](#katago)
+- [KataGo   ](#katago)
   - [Overview](#overview)
   - [Training History and Research and Docs](#training-history-and-research-and-docs)
   - [Where To Download Stuff](#where-to-download-stuff)
